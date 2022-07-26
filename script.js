@@ -36,4 +36,8 @@ const nome = prompt("Qual o seu nome?")
 
     // o email possui @ ?
     const temArroba= emailDoUsuario.includes(`@`)
+   
     console.log(temArroba)
+    //comentatio para atualizar branch
+
+    

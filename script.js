@@ -2,7 +2,7 @@
 // let nome = prompt("Qual seu nome?")
 // let cor = prompt("Quak sua cor favorita?")
 
-// // imprima a msg "a cor favoria de nome é" concatenando
+// // imprima a msg "a cor favoria de nome é" concatenandoaa
 // console.log("A cor favorita de " + nome + " é", cor)
 
 // // imprima a msg "a cor favoria de nome é" como string

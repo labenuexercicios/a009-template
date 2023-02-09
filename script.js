@@ -36,6 +36,6 @@ const email = prompt('Qual o seu email?')
 
 cadastro(nome, email)
 
-console.log('testando o upload no github')
+console.log('testando o upload no Github')
 
 // tentando upar no github

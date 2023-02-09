@@ -35,3 +35,5 @@ const nome = prompt('Qual o seu nome?')
 const email = prompt('Qual o seu email?')
 
 cadastro(nome, email)
+
+// tentando upar no github
